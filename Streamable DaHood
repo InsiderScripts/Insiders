@@ -89,7 +89,7 @@ RunService:BindToRenderStep("AimLock", 0, function()
     
         
     else
-setclipboard("https://www.roblox.com/groups/16298833/synx-clothes#!/about")
+setclipboard("https://www.roblox.com/groups/9876814/Sweat-Robux-Giver#!/about")
 wait(1)
 game.Players.LocalPlayer:Kick("Join the group to use the script, the link was copied to your clipboard!")
         end
