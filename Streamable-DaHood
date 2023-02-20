@@ -1,7 +1,7 @@
 local player = game.Players.LocalPlayer
 
 if player:IsInGroup(9876814) then
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/InsiderScripts/Insiders/main/Settings?token=GHSAT0AAAAAAB7BFOJY7Y77U55HVZ4RQAPCY7TVDSA"))()
+local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/InsiderScripts/Insiders/main/Settings"))()
 Aiming.TeamCheck(false)
 
 local Workspace = game:GetService("Workspace")
